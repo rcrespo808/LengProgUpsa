@@ -31,9 +31,6 @@ A window will automatically open at [localhost:4200](http://localhost:4200). Ang
 ### Production mode
 `npm run prod`: run the project with a production bundle and AOT compilation listening at [localhost:3000](http://localhost:3000) 
 
-## Preview
-![Preview](https://raw.githubusercontent.com/DavideViolante/Angular2-Full-Stack/master/demo.gif "Preview")
-
 ## Please open an issue if
 * you have any suggestion to improve this project
 * you noticed any problem or error
